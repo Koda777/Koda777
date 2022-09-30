@@ -3,7 +3,7 @@
 <p align="center">
     <img align="center" src="https://user-images.githubusercontent.com/72024743/193350704-83996224-131f-4c01-b2af-ac4da1218211.gif" width="100%" height="20%" />
 </p>
-<p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++, Flutter but I'm open minded.
+<p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++, Flutter but I'm open minded.</p>
     
 # 🔥 Stats
 
