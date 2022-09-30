@@ -1,12 +1,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Alkalami&size=45&duration=2500&pause=1000&color=F8B940&width=435&height=60&lines=Hi+!;I'm+Koda;A+simple+Developper" alt="Typing SVG" />
 <p align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/72024743/193350704-83996224-131f-4c01-b2af-ac4da1218211.gif" width="100%" height="10%" />
+    <img align="center" src="https://user-images.githubusercontent.com/72024743/193350704-83996224-131f-4c01-b2af-ac4da1218211.gif" width="100%" height="3%" />
 </p>
-<a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
 
 <p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++, Flutter but I'm open minded.</p>
-
 <div>
 <details>
   <summary>🧑 More about me</summary>
