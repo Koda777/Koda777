@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/72024743/193298763-9ad5ef78-12f5-4d4a-958f-38d0e486a4c2.gif" width="800" height="400" style="border-radius:50%"/>
+<img src="https://user-images.githubusercontent.com/72024743/193298763-9ad5ef78-12f5-4d4a-958f-38d0e486a4c2.gif" width="900" height="500" style="border-radius:50%"/>
 
 # Stats
 <a href="">
