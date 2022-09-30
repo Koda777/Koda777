@@ -6,4 +6,4 @@
 <a href="">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Olmol1&theme=neon-palenight&background=141439&sideLabels=f7db3c&sideNums=f7db3c&dates=fe1afe&date_format=j/n/Y" width="420" height="auto"/>
 </a>
-<img src="https://user-images.githubusercontent.com/72024743/193294458-0d889ed1-93ba-4e49-bbd3-322c233a291d.gif" />
+<img src="https://user-images.githubusercontent.com/72024743/193294603-3c8ccd69-ffdc-4ec6-b434-c8a9d8dac5c2.gif" />
