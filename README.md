@@ -1,7 +1,7 @@
+
+<img src="https://user-images.githubusercontent.com/72024743/193294603-3c8ccd69-ffdc-4ec6-b434-c8a9d8dac5c2.gif" width="40%" height="auto"/>
+
 # Stats
-
-<img src="https://user-images.githubusercontent.com/72024743/193294603-3c8ccd69-ffdc-4ec6-b434-c8a9d8dac5c2.gif" />
-
 <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Olmol1&show_icons=true&theme=outrun&title_color=e31d44&text_color=f8dc3c" width="420" height="auto"/>
 </a>
