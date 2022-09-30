@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter+Tight&size=35&duration=3000&pause=1000&color=FFFFFF&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alkalami&size=35&duration=3000&pause=1000&color=F8B940&width=435&height=60&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/72024743/193298763-9ad5ef78-12f5-4d4a-958f-38d0e486a4c2.gif" width="900" height="500" style="border-radius:50%"/>
 
 <p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++, Flutter but I'm open minded.
