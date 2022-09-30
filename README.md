@@ -4,7 +4,32 @@
     <img align="center" src="https://user-images.githubusercontent.com/72024743/193350704-83996224-131f-4c01-b2af-ac4da1218211.gif" width="100%" height="20%" />
 </p>
 <p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++, Flutter but I'm open minded.</p>
-    
+
+<div>
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **kodama777@protonmail.com**
+
+</details>
+  
+</p>
+  
+<!--
+<details>
+  <summary>📕 Blog Posts</summary>
+  <br />
+</details>
+</div>
+-->
 # 🔥 Stats
 
 <a href="">
