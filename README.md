@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 💬 Ask me about **open source, web development, and community management**
+- 💬 Ask me about **open source, game development, and application development**
 
 - 📫 Reach me out at **kodama777@protonmail.com**
 
