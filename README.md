@@ -34,7 +34,7 @@
 -->
 # 🔥 Stats
 
-<img align="right" width="30%" src="https://user-images.githubusercontent.com/72024743/193410431-91615431-0c5e-428d-aa6f-ce6a7f01e415.gif"/>
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/72024743/193410431-91615431-0c5e-428d-aa6f-ce6a7f01e415.gif"/>
 <div>
     <div>
         <a href="https://github.com/Olmol1">
