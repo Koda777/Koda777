@@ -38,12 +38,12 @@
 <div>
     <div>
         <a href="https://github.com/Koda777">
-        <img src="https://github-readme-stats.vercel.app/api?username=Olmol1&show_icons=true&theme=outrun&title_color=e31d44&text_color=f8dc3c" width="53%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Koda777&show_icons=true&theme=outrun&title_color=e31d44&text_color=f8dc3c" width="53%" />
         </a>
     </div>
     <div>
         <a href="https://github.com/Koda777">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=Olmol1&theme=neon-palenight&background=141439&sideLabels=f7db3c&sideNums=f7db3c&dates=fe1afe&date_format=j/n/Y" width="53%" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Koda777&theme=neon-palenight&background=141439&sideLabels=f7db3c&sideNums=f7db3c&dates=fe1afe&date_format=j/n/Y" width="53%" />
         </a>
     </div>
 </div>
