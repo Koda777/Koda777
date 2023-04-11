@@ -6,7 +6,7 @@
     </a>
 </p>
 
-<p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++, Flutter but I'm open minded.</p>
+<p>Hi 👋, I'm Koda an enthusiastic and ambitious developer currently student in Epitech. I really like C/C++/Java but I'm open minded.</p>
 <div>
 <details>
   <summary>🧑 More about me</summary>
